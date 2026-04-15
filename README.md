@@ -228,6 +228,6 @@ The experiment still demonstrates how Linux scheduling differentiates process pr
 
 ---
 
-## ✅ Conclusion
+##  Conclusion
 
 This project demonstrates core OS concepts such as process creation, filesystem isolation, logging, memory behavior, and scheduling using a simple container runtime.
