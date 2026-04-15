@@ -1,6 +1,6 @@
 # Multi-Container Runtime (OS Project)
 
-## 👩‍💻 Team Information
+## Team Information
 
 | Name | SRN |
 |------|-----|
@@ -42,7 +42,7 @@ sudo ./engine run alpha ../rootfs-alpha /bin/sh
 
 ---
 
-## 📸 Demo with Screenshots
+## Demo with Screenshots
 
 ---
 
