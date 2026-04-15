@@ -51,6 +51,7 @@ sudo ./engine run alpha ../rootfs-alpha /bin/sh
 Two containers (`alpha` and `beta`) were executed showing multiple running instances.
 
 ![Multi-container](screenshots/screenshot1.jpeg)
+
 Shows container shells running at the same time.
 
 ---
@@ -62,6 +63,7 @@ Shows container shells running at the same time.
 ```
 
 ![PS](screenshots/screenshot2.jpeg)
+
 Shows both containers (`alpha`, `beta`) in running state.
 
 ---
@@ -79,6 +81,7 @@ hello
 ```
 
 ![Logging](screenshots/screenshot3.jpeg)
+
 Container output ("hello") is successfully written into `container.log`.
 
 ---
@@ -90,6 +93,7 @@ sudo ./engine run alpha ../rootfs-alpha dummy
 ```
 
 ![CLI](screenshots/screenshot4.jpeg)
+
 CLI command executes successfully without errors.
 
 ---
@@ -101,6 +105,7 @@ sudo dmesg | tail
 ```
 
 ![Kernel Logs](screenshots/screenshot5.jpeg)
+
 Shows kernel module messages and system activity.
 
 ---
@@ -113,6 +118,7 @@ sudo dmesg | tail
 ```
 
 ![Memory](screenshots/screenshot6.jpeg)
+
 Memory allocation increases step-by-step showing workload behavior.
 
 ---
@@ -126,6 +132,7 @@ top
 ```
 
 ![Scheduling](screenshots/screenshot7.jpeg)
+
 Processes are run with different priorities and observed using `top`.
 
 ---
@@ -137,6 +144,7 @@ ps aux | grep engine
 ```
 
 ![Cleanup](screenshots/screenshot8.jpeg)
+
 Shows process list ensuring no unwanted processes remain.
 
 ---
@@ -228,6 +236,6 @@ The experiment still demonstrates how Linux scheduling differentiates process pr
 
 ---
 
-##  Conclusion
+## Conclusion
 
 This project demonstrates core OS concepts such as process creation, filesystem isolation, logging, memory behavior, and scheduling using a simple container runtime.
