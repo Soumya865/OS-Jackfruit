@@ -2,9 +2,10 @@
 
 ## 👩‍💻 Team Information
 
- Soumya Ammalajeri (PES1UG24CS628)
- Tilak Biradar(PES1UG24CS639)
-
+| Name | SRN |
+|------|-----|
+| Soumya Ammalajeri | PES1UG24CS628 |
+| Tilak Biradar | PES1UG24CS639 |
 
 ---
 
