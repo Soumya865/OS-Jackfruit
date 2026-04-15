@@ -2,8 +2,9 @@
 
 ## 👩‍💻 Team Information
 
-Name: Soumya
-Course: BTech CSE
+ Soumya Ammalajeri (PES1UG24CS628)
+ Tilak Biradar(PES1UG24CS639)
+
 
 ---
 
